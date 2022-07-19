@@ -244,15 +244,13 @@ ul#nav li.current a { color: #F06000; }
   width: 20rem;
   border-radius: 5%;
   margin: 0 1rem 0 2rem;
-  float: left;
 }
 .intro-info img {
   height: 12rem;
   width: 12rem;
   border:1px solid #F06000;
   border-radius: 50%;
-  margin: 0.9rem 1rem 0 2rem;
-  float: left;
+
 }
 .intro-info .lead {
   text-align: left;
@@ -260,7 +258,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .icon-wil img{
     height: 10rem;
-    width: 70rem;
+    width: 60rem;
     background-color: white;
     border:1px solid #F06000;
     border-radius: 5%;
